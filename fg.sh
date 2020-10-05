@@ -12,7 +12,7 @@ echo $cyan " ✔ASSALAMUALLAIKUM WR Wb"
 sleep 0.1
 echo $cyan "✔ TOOLS INI SUDAH MININ UPDATE LAGI"
 sleep 0.1 
-echo $cyan " ✔ JADI TOOLS NYA MENJADI 3 TOOLS"
+echo $cyan "✔ JADI TOOLS NYA MENJADI 3 TOOLS"
 sleep 0.1
 echo $cyan "✔ COCOK BUAT KALIAN YANG MAU NYOLONG AKUN"
 sleep 0.1
@@ -29,7 +29,7 @@ sleep 0.1
 echo $cyan "✔ UNTUK SCRIPNYA BISA WA MIMIN OKE ATAU
               BISA JUGA HUBUNGIN MIMIN DISOSMED OKE
               YT MIMIN JUGA JANGAN LUPA SUBREK OKE"
-sleep 20
+sleep 30
 clear
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
