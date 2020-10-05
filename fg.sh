@@ -17,7 +17,7 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 
-echo $ij "
+echo $ku "
 ╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗🔓 FB: Faizul
 ║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝🔓 WA: 082271426251
 ╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩   ╩"
@@ -26,7 +26,7 @@ echo $ij "
    ✔ FB: FAIZUL
    ✔ AU: Github/Faizulcyber
    ✔ WA: 082271426251
-════════════════════════
+════════════════════════"
 
 echo $or "
          🔴 MENU HACKING 🔴
