@@ -28,7 +28,7 @@ echo $cyan "✔ YAKIN PASTI BISA TUTOR DI YT"
 sleep 0.1
 echo $cyan "✔ UNTUK SCRIPNYA BISA WA MIMIN OKE ATAU
               BISA JUGA HUBUNGIN MIMIN DISOSMED OKE
-              YT MIMIN JUGA JANGAN LUPA SUBREK OKE
+              YT MIMIN JUGA JANGAN LUPA SUBREK OKE"
 sleep 10
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
