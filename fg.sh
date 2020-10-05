@@ -7,7 +7,29 @@ clear
 echo $cyan "🔓 ADD FACEBOOK PEMBUAT TOOLS"
 sleep 10
 termux-open https://www.facebook.com/Nadia.Epa12345
-sleep 0.2
+sleep 10
+echo $cyan " ✔ASSALAMUALLAIKUM WR Wb"
+sleep 0.1
+echo $cyan "✔ TOOLS INI SUDAH MININ UPDATE LAGI"
+sleep 0.1 
+echo $cyan " ✔ JADI TOOLS NYA MENJADI 3 TOOLS"
+sleep 0.1
+echo $cyan "✔ COCOK BUAT KALIAN YANG MAU NYOLONG AKUN"
+sleep 0.1
+echo $cyan "✔ SCRIP NYA JUGA GAK LOGIN"
+sleep 0.1
+echo $cyan "✔ JADI BEBAS MENGUNAKANNYA"
+sleep 0.1
+echo $cyan "✔ TRUS INGGAT JANGAN RECODE SCRIP ORG"
+sleep 0.1
+echo $cyan "✔ BERKARYA LAH/ BUAT SENDIRI SCRIPNYA"
+sleep 0.1
+echo $cyan "✔ YAKIN PASTI BISA TUTOR DI YT"
+sleep 0.1
+echo $cyan "✔ UNTUK SCRIPNYA BISA WA MIMIN OKE ATAU
+              BISA JUGA HUBUNGIN MIMIN DISOSMED OKE
+              YT MIMIN JUGA JANGAN LUPA SUBREK OKE
+sleep 10
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -21,11 +43,11 @@ echo $ku "
 ╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗🔓 FB: Faizul
 ║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝🔓 WA: 082271426251
 ╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩   ╩
-   🔴 NOTE:
+  🔴 NOTE:
 ════════════════════════
-   ✔ FB: FAIZUL
-   ✔ AU: Github/Faizulcyber
-   ✔ WA: 082271426251
+  ✔ FB: FAIZUL
+  ✔ AU: Github/Faizulcyber
+  ✔ WA: 082271426251
 ════════════════════════"
 
 echo $or "
@@ -34,6 +56,8 @@ echo $or "
 [1] 🔓 HACK FB LOGIN CHOKIES
 ════════════════════════════════
 [2] 🔓 HACK FB NO LOGIN
+════════════════════════════════
+[3] 🔓 INSTALL BAHAN
 ════════════════════════════════
 ┠
 ┗────[99] KELUAR PROGRAM❌"
@@ -71,6 +95,19 @@ pip2 install requests
 git clone https://github.com/IqbalDev/multi_dev
 cd multi_dev
 python2 multi_dev.py
+fi
+
+if [ $bro = 3 ] || [ $bro = 3 ]
+then
+clear
+echo $cyan "⭕ INSTALL BAHAN"
+sleep 10
+pkg install python2
+pkg install lolcat
+pkg install meyzu
+pkg install php
+pip2 install mechanize
+pip2 install requestst
 fi
 
 if [ $bro = 99 ] || [ $bro = 99 ]
