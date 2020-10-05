@@ -29,7 +29,7 @@ sleep 0.1
 echo $cyan "✔ UNTUK SCRIPNYA BISA WA MIMIN OKE ATAU
               BISA JUGA HUBUNGIN MIMIN DISOSMED OKE
               YT MIMIN JUGA JANGAN LUPA SUBREK OKE"
-sleep 10
+sleep 20
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
